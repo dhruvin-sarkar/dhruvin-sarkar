@@ -36,7 +36,6 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 <p align="center">
   <img src="Leetcode.png" alt="LeetCode Profile" width="49%" />
-  <img src="Leetcode Skills.png" alt="LeetCode Skills" width="49%" />
 </p>
 
 ---
