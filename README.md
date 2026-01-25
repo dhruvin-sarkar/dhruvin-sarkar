@@ -8,21 +8,9 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ---
 
-## 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/github-metrics.svg)
-
----
-
 ## 📅 Contribution Calendar
 
 ![Isocalendar](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg)
-
----
-
-## 🏷️ Top Topics
-
-![Topics](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/topics.svg)
 
 ---
 
