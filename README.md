@@ -104,13 +104,13 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ## 📅 Contribution Calendar
 
-![Isocalendar](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/github-metrics.svg)
+![Isocalendar](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg)
 
 ---
 
 ## 📈 Coding Habits
 
-![Habits](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/github-metrics.svg)
+![Habits](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/habits.svg)
 
 ---
 
