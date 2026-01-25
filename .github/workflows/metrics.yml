@@ -21,16 +21,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           
-          # Topics plugin
-          plugin_topics: yes
-          plugin_topics_mode: starred
-          plugin_topics_sort: stars
-          plugin_topics_limit: 15
-          
-          # Habits plugin
+          # Habits plugin - REDUCED SCOPE
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
+          plugin_habits_from: 100
+          plugin_habits_days: 7
           plugin_habits_facts: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: graph
