@@ -8,21 +8,9 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ---
 
-## 📊 GitHub Metrics
-
-![Metrics](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/github-metrics.svg)
-
----
-
 ## 📅 Contribution Calendar
 
 ![Isocalendar](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg)
-
----
-
-## 🏷️ Top Topics
-
-![Topics](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/topics.svg)
 
 ---
 
@@ -34,10 +22,9 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ## 💻 LeetCode Stats
 
-<p align="center">
-  <img src="Leetcode.png" alt="LeetCode Profile" width="49%" />
-  <img src="Leetcode Skills.png" alt="LeetCode Skills" width="49%" />
-</p>
+<div align="center">
+  <img src="Leetcode.png" alt="LeetCode Profile" width="90%" />
+</div>
 
 ---
 
@@ -55,6 +42,8 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ## 🎮 Let's play Pokémon together
 
+<div align="center">
+
 <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game Screen"/>
 
 <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30" alt="Up Button"/></a>
@@ -62,6 +51,6 @@ While some might say I'm interested in too many things, I see it as creative fue
 <br><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30" alt="Down Button"/></a>
 <br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74" alt="Select Button"/></a> <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" alt="Start Button"/></a>
 
----
+<p><em>Click buttons above to issue new gamepad input, refresh this page to view newest game screen to interact</em></p>
 
-Click buttons above to issue new gamepad input, refresh this page to view newest game screen to interact
+</div>
