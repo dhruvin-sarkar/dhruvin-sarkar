@@ -104,20 +104,20 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 ## 📅 Contribution Calendar
 
-![Isocalendar](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg)
+![Isocalendar](img/isocalendar.svg)
 
 ---
 
 ## 📈 Coding Habits
 
-![Habits](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/habits.svg)
+![Habits](img/habits.svg)
 
 ---
 
 ## 💻 LeetCode Stats
 
 <div align="center">
-  <img src="Leetcode.png" alt="LeetCode Profile" width="90%" />
+  <img src="img/Leetcode.png" alt="LeetCode Profile" width="90%" />
 </div>
 
 ---
