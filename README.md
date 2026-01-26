@@ -12,6 +12,48 @@
 
 ---
 
+## 🎮 Let's Play Pokémon Together
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="20%" align="right" valign="middle">
+        <table>
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game"/>
+      </td>
+      <td width="40%" align="left" valign="middle">
+        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="35"/></a>
+        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="35"/></a>
+        <br><br>
+        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
+        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
+        <br><br>
+        <em>Click buttons • Refresh to see updates</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 # 👋 Hey
 
 I'm an AI and Design Thinking student in the 11th grade, passionate about turning ideas into crafted digital experiences. Technology and electronics have always been a part of my life — both my father and grandfather worked with tech, so I was surrounded by computers, PCBs, and code from as far back as I can remember. My first experience with programming was when my dad taught me C and C++ in the 3rd grade, when I was just 8 years old. I deeply value UI/UX, and I strive to build products that not only function well but also deliver memorable, meaningful experiences for users.I'm also deeply committed to improving my problem-solving and coding skills — especially through competitive programming and LeetCode
@@ -124,38 +166,15 @@ While some might say I'm interested in too many things, I see it as creative fue
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
-        <img src="img/image.png" alt="ASCII Art Portrait" width="90%" />
+      <td width="40%" align="center" valign="top">
+        <h3>🎨 ASCII Portrait</h3>
+        <img src="img/image.png" alt="ASCII Art Portrait" width="95%" />
       </td>
-      <td width="50%" align="center">
-        <h3>🎮 Let's Play Pokémon</h3>
-        <img src="https://toy.cloudreve.org/image" width="280" alt="Pokemon Game"/>
-        <br><br>
-        <table align="center">
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-          <tr>
-            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
-            <td></td>
-          </tr>
-        </table>
-        <br>
-        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a>
-        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
-        <br><br>
-        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
-        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
-        <br><br>
-        <em>Click buttons to play • Refresh to see updates</em>
+      <td width="60%" align="center" valign="top">
+        <h3>📊 GitHub Streak</h3>
+        <a href="https://git.io/streak-stats">
+          <img src="https://streak-stats.demolab.com?user=dhruvin-sarkar&theme=whatsapp-dark2" alt="GitHub Streak" width="100%" />
+        </a>
       </td>
     </tr>
   </table>
