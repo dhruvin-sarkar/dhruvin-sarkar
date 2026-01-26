@@ -122,7 +122,61 @@ While some might say I'm interested in too many things, I see it as creative fue
 ---
 
 <div align="center">
-  <img src="img/image.png" alt="ASCII Art Portrait" width="400" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎨 ASCII Portrait</h3>
+        <img src="img/image.png" alt="ASCII Art Portrait" width="90%" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🎮 Let's Play Pokémon</h3>
+        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game Screen"/>
+        <br><br>
+        
+        <!-- D-Pad -->
+        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> 
+        <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30" alt="Up"/>
+        </a>
+        <br>
+        <a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30" alt="Left"/>
+        </a>
+        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
+        <a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30" alt="Right"/>
+        </a>
+        <br>
+        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
+        <a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30" alt="Down"/>
+        </a>
+        
+        <br><br>
+        
+        <!-- A & B Buttons -->
+        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30" alt="B"/>
+        </a>
+        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30" alt="A"/>
+        </a>
+        
+        <br><br>
+        
+        <!-- Select & Start -->
+        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/druvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74" alt="Select"/>
+        </a>
+        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar">
+          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" alt="Start"/>
+        </a>
+        
+        <br><br>
+        <em>Click buttons to play • Refresh to see updates</em>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
