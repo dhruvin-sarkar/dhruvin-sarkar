@@ -167,7 +167,6 @@ While some might say I'm interested in too many things, I see it as creative fue
   <table>
     <tr>
       <td width="40%" align="center" valign="top">
-        <h3>🎨 ASCII Portrait</h3>
         <img src="img/image.png" alt="ASCII Art Portrait" width="95%" />
       </td>
       <td width="60%" align="center" valign="top">
