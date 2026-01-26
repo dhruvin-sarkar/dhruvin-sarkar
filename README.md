@@ -203,5 +203,5 @@ While some might say I'm interested in too many things, I see it as creative fue
     </tr>
   </table>
 </div>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvin-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvin-sarkar" /> </p>
 ---
