@@ -173,7 +173,7 @@ While some might say I'm interested in too many things, I see it as creative fue
       <td width="60%" align="center" valign="top">
         <h3>📊 GitHub Streak</h3>
         <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=dhruvin-sarkar&theme=whatsapp-dark2" alt="GitHub Streak" width="100%" />
+          <img src="https://nirzak-streak-stats.vercel.app/?user=dhruvin-sarkar&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="100%" />
         </a>
       </td>
     </tr>
