@@ -125,7 +125,6 @@ While some might say I'm interested in too many things, I see it as creative fue
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>🎨 ASCII Portrait</h3>
         <img src="img/image.png" alt="ASCII Art Portrait" width="90%" />
       </td>
       <td width="50%" align="center">
