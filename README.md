@@ -110,14 +110,14 @@ While some might say I'm interested in too many things, I see it as creative fue
 ## 📅 Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/metrics.plugin.isocalendar.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="95%" />
 </div>
 
 ---
 
 ## 📈 Coding Habits
 
-![Habits](img/habits.svg)
+![Habits](https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/habits.svg)
 
 ---
 
@@ -130,48 +130,31 @@ While some might say I'm interested in too many things, I see it as creative fue
       </td>
       <td width="50%" align="center">
         <h3>🎮 Let's Play Pokémon</h3>
-        <img src="https://toy.cloudreve.org/image" width="300" alt="Pokemon Game Screen"/>
+        <img src="https://toy.cloudreve.org/image" width="280" alt="Pokemon Game"/>
         <br><br>
-        
-        <!-- D-Pad -->
-        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> 
-        <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30" alt="Up"/>
-        </a>
+        <table align="center">
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a></td>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a></td>
+            <td></td>
+          </tr>
+        </table>
         <br>
-        <a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30" alt="Left"/>
-        </a>
-        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-        <a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30" alt="Right"/>
-        </a>
-        <br>
-        <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-        <a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30" alt="Down"/>
-        </a>
-        
+        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a>
+        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
         <br><br>
-        
-        <!-- A & B Buttons -->
-        <a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30" alt="B"/>
-        </a>
-        <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30" alt="A"/>
-        </a>
-        
-        <br><br>
-        
-        <!-- Select & Start -->
-        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/druvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74" alt="Select"/>
-        </a>
-        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar">
-          <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" alt="Start"/>
-        </a>
-        
+        <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a>
+        <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/dhruvin-sarkar"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65"/></a>
         <br><br>
         <em>Click buttons to play • Refresh to see updates</em>
       </td>
