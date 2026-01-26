@@ -140,10 +140,10 @@ While some might say I'm interested in too many things, I see it as creative fue
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ymkdcdo20wr1kdyrcc0l3lugi&count=12&width=500" alt="Recently Played" width="100%" />
+      <td width="50%" align="center">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=ymkdcdo20wr1kdyrcc0l3lugi&count=10&width=500" alt="Recently Played" width="100%" />
       </td>
-      <td width="50%">
+      <td width="50%" align="center">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ymkdcdo20wr1kdyrcc0l3lugi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true" alt="Now Playing" width="100%" />
       </td>
     </tr>
