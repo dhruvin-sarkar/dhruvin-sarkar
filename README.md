@@ -165,14 +165,14 @@ While some might say I'm interested in too many things, I see it as creative fue
 
 <div align="center">
   <table>
-    <tr>
+    <tr></tr>
       <td width="40%" align="center" valign="top">
         <img src="img/image.png" alt="ASCII Art Portrait" width="95%" />
       </td>
       <td width="60%" align="center" valign="top">
         <h3>📊 GitHub Streak</h3>
         <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=dhruvin-sarkar&theme=shadow_green&hide_border=false" alt="GitHub Streak" width="100%" />
+          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
         </a>
       </td>
     </tr>
