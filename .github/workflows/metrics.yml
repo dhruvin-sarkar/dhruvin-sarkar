@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  workflow_dispatch:
+  push: {branches: ["main", "master"]}
+jobs:
+  # Separate isocalendar job
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dhruvin-sarkar
+          base: ""
+          config_timezone: Asia/Dubai
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+  # Separate habits job
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: dhruvin-sarkar
+          base: ""
+          config_timezone: Asia/Dubai
+          plugin_habits: yes
+          plugin_habits_from: 500
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
