@@ -1,8 +1,17 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]  # Every 6 hours instead of daily
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
+  push: 
+    branches: ["main"]
+    paths:
+      - '.github/workflows/metrics.yml'
+      - 'README.md'
+  pull_request:
+    branches: ["main"]
+    paths:
+      - '.github/workflows/metrics.yml'
+      - 'README.md'
 jobs:
   # Separate isocalendar job
   isocalendar:
