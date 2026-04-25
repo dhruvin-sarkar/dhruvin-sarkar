@@ -114,25 +114,16 @@ I’m interested in a lot of things, and I see that as more of an advantage rath
 ##  Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/dhruvin-sarkar/dhruvin-sarkar/main/isocalendar.svg" width="100%" />
 </div>
 
 ---
 
 <div align="center">
-  <table>
-    <tr></tr>
-      <td width="40%" align="center" valign="top">
-        <img src="img/image.png" alt="ASCII Art Portrait" width="95%" />
-      </td>
-      <td width="60%" align="center" valign="top">
-        <h3> GitHub Streak</h3>
-        <a href="https://git.io/streak-stats">
-          <img src="https://nirzak-streak-stats.vercel.app?user=dhruvin-sarkar&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h3> GitHub Streak</h3>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=dhruvin-sarkar&theme=transparent" alt="GitHub Streak" width="95%" />
+  </a>
 </div>
 
 ---
@@ -140,8 +131,14 @@ I’m interested in a lot of things, and I see that as more of an advantage rath
 ##  LeetCode Stats
 
 <div align="center">
-  <img src="img/Leetcode.png" alt="LeetCode Profile" width="90%" />
+  <img src="img/Leetcode.png" alt="LeetCode Profile" width="100%" />
 </div>
+
+<!--
+<div align="center">
+  <img src="https://github-readme-leetcode-card.romitsagu.com/DhruvinSarkar?theme=algolia&show=recent" alt="LeetCode Stats" width="90%" />
+</div>
+-->
 
 ---
 
