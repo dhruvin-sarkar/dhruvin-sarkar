@@ -56,7 +56,7 @@
 
 # 👋 Hey
 
-I’m an AI and Design Thinking student in the 11th grade. Technology and electronics have always been part of my life, I grew up surrounded by computers, PCBs, and tech wayyy before I even knew what they were. My dad taught me C and C++ at the age of 8, and that curiosity turned into a obsession with understanding how things work.
+I’m an AI and Design Thinking student in the 12th grade. Technology and electronics have always been part of my life, I grew up surrounded by computers, PCBs, and tech wayyy before I even knew what they were. My dad taught me C and C++ at the age of 8, and that curiosity turned into a obsession with understanding how things work.
 
 I’m interested in a lot of things, and I see that as more of an advantage rather than the latter. I’m a competitive FPS and roguelike enjoyer, I love mechanically demanding games, I explore web development, game development, hardware tinkering, PCB work, and PC modding, and I love and I mean LOVE Linux from early usage of Ubuntu and Fedora to daily-driving Arch Linux, where I’ve spent years ricing, configuring, breaking, and rebuilding my system through dotfiles, window managers, and custom workflows. I’m a docs-first,  trial and error, type person that tend to obsess over details and polish. other than tech stuff I’m into car modding, archery, music, and anime/manga/manhwa.
 
