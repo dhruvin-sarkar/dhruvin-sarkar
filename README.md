@@ -70,13 +70,6 @@
 </div>
 
 ---
-
-##  LeetCode Stats
-
-<div align="center">
-  <img src="img/Leetcode.png" alt="LeetCode Profile" width="100%" />
-</div>
-
 <!--
 <div align="center">
   <img src="https://github-readme-leetcode-card.romitsagu.com/DhruvinSarkar?theme=algolia&show=recent" alt="LeetCode Stats" width="90%" />
@@ -100,4 +93,4 @@
   </table>
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhruvin-sarkar&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvin-sarkar" /> </p>
----
+
